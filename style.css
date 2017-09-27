@@ -1,0 +1,30 @@
+
+
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.font-h1 {
+  color: Darkblue;
+}
+
+
+.background {
+  background-image: url("jeremy-bishop-123457.jpg");
+
+  height: 100%;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1, h2 {
+  font-family: 'Merriweather', sans-serif;
+}
+
+p {
+  font-family: 'Roboto+Slab', sans-serif;
+}
+
